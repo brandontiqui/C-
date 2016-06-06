@@ -1,0 +1,10 @@
+ASN1
+2.6 d. it maximizes software performance
+
+ASN2
+3.3 c. a change in ADT implementation requires a change in the application program
+
+4.5 d. dereferencing a non-pointer (say an integer)
+
+ASN3
+6.1 If a path exists, it will still be found.
